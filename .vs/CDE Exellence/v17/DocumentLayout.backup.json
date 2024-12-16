@@ -1,7 +1,52 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{849CB115-1061-463E-940A-7AEDAB259655}|CDE Exellence\\CDE Exellence.csproj|c:\\users\\hoang thong\\desktop\\thuctap\\cde exellence\\cde exellence\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{849CB115-1061-463E-940A-7AEDAB259655}|CDE Exellence\\CDE Exellence.csproj|solutionrelative:cde exellence\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{849CB115-1061-463E-940A-7AEDAB259655}|CDE Exellence\\CDE Exellence.csproj|c:\\users\\hoang thong\\desktop\\thuctap\\cde exellence\\cde exellence\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{849CB115-1061-463E-940A-7AEDAB259655}|CDE Exellence\\CDE Exellence.csproj|solutionrelative:cde exellence\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{849CB115-1061-463E-940A-7AEDAB259655}|CDE Exellence\\CDE Exellence.csproj|c:\\users\\hoang thong\\desktop\\thuctap\\cde exellence\\cde exellence\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{849CB115-1061-463E-940A-7AEDAB259655}|CDE Exellence\\CDE Exellence.csproj|solutionrelative:cde exellence\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{849CB115-1061-463E-940A-7AEDAB259655}|CDE Exellence\\CDE Exellence.csproj|c:\\users\\hoang thong\\desktop\\thuctap\\cde exellence\\cde exellence\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{849CB115-1061-463E-940A-7AEDAB259655}|CDE Exellence\\CDE Exellence.csproj|solutionrelative:cde exellence\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{849CB115-1061-463E-940A-7AEDAB259655}|CDE Exellence\\CDE Exellence.csproj|c:\\users\\hoang thong\\desktop\\thuctap\\cde exellence\\cde exellence\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{849CB115-1061-463E-940A-7AEDAB259655}|CDE Exellence\\CDE Exellence.csproj|solutionrelative:cde exellence\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{849CB115-1061-463E-940A-7AEDAB259655}|CDE Exellence\\CDE Exellence.csproj|c:\\users\\hoang thong\\desktop\\thuctap\\cde exellence\\cde exellence\\migrations\\20241216041549_seeddefaultuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{849CB115-1061-463E-940A-7AEDAB259655}|CDE Exellence\\CDE Exellence.csproj|solutionrelative:cde exellence\\migrations\\20241216041549_seeddefaultuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{849CB115-1061-463E-940A-7AEDAB259655}|CDE Exellence\\CDE Exellence.csproj|c:\\users\\hoang thong\\desktop\\thuctap\\cde exellence\\cde exellence\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{849CB115-1061-463E-940A-7AEDAB259655}|CDE Exellence\\CDE Exellence.csproj|solutionrelative:cde exellence\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{849CB115-1061-463E-940A-7AEDAB259655}|CDE Exellence\\CDE Exellence.csproj|c:\\users\\hoang thong\\desktop\\thuctap\\cde exellence\\cde exellence\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{849CB115-1061-463E-940A-7AEDAB259655}|CDE Exellence\\CDE Exellence.csproj|solutionrelative:cde exellence\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{849CB115-1061-463E-940A-7AEDAB259655}|CDE Exellence\\CDE Exellence.csproj|c:\\users\\hoang thong\\desktop\\thuctap\\cde exellence\\cde exellence\\service\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{849CB115-1061-463E-940A-7AEDAB259655}|CDE Exellence\\CDE Exellence.csproj|solutionrelative:cde exellence\\service\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{849CB115-1061-463E-940A-7AEDAB259655}|CDE Exellence\\CDE Exellence.csproj|c:\\users\\hoang thong\\desktop\\thuctap\\cde exellence\\cde exellence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{849CB115-1061-463E-940A-7AEDAB259655}|CDE Exellence\\CDE Exellence.csproj|solutionrelative:cde exellence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{849CB115-1061-463E-940A-7AEDAB259655}|CDE Exellence\\CDE Exellence.csproj|c:\\users\\hoang thong\\desktop\\thuctap\\cde exellence\\cde exellence\\cde exellence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{849CB115-1061-463E-940A-7AEDAB259655}|CDE Exellence\\CDE Exellence.csproj|solutionrelative:cde exellence\\cde exellence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +54,149 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241216041549_SeedDefaultUser.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\Migrations\\20241216041549_SeedDefaultUser.cs",
+              "RelativeDocumentMoniker": "CDE Exellence\\Migrations\\20241216041549_SeedDefaultUser.cs",
+              "ToolTip": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\Migrations\\20241216041549_SeedDefaultUser.cs",
+              "RelativeToolTip": "CDE Exellence\\Migrations\\20241216041549_SeedDefaultUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T04:15:49.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\Program.cs",
+              "RelativeDocumentMoniker": "CDE Exellence\\Program.cs",
+              "ToolTip": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\Program.cs",
+              "RelativeToolTip": "CDE Exellence\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:11:18.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CDE Exellence\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "CDE Exellence\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:44:05.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CDE Exellence\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CDE Exellence\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T04:00:26.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "CDE Exellence\\Service\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\Service\\AuthService.cs",
+              "RelativeToolTip": "CDE Exellence\\Service\\AuthService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAvwB8AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T03:54:10.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "CDE Exellence\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "CDE Exellence\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T03:49:56.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\appsettings.json",
+              "RelativeDocumentMoniker": "CDE Exellence\\appsettings.json",
+              "ToolTip": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\appsettings.json",
+              "RelativeToolTip": "CDE Exellence\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-12T09:57:13.319Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "CDE Exellence\\Repository\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "CDE Exellence\\Repository\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T03:49:31.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\Service\\IAuthService.cs",
+              "RelativeDocumentMoniker": "CDE Exellence\\Service\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\Service\\IAuthService.cs",
+              "RelativeToolTip": "CDE Exellence\\Service\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T03:53:23.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\Model\\User.cs",
+              "RelativeDocumentMoniker": "CDE Exellence\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\Model\\User.cs",
+              "RelativeToolTip": "CDE Exellence\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:41:23.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CDE Exellence.csproj",
+              "DocumentMoniker": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\CDE Exellence.csproj",
+              "RelativeDocumentMoniker": "CDE Exellence\\CDE Exellence.csproj",
+              "ToolTip": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\CDE Exellence.csproj",
+              "RelativeToolTip": "CDE Exellence\\CDE Exellence.csproj",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-12T09:40:24.685Z"
             }
           ]
         }
