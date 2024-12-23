@@ -5,6 +5,8 @@ namespace CDE_Exellence.Data
     public class AppDbContext:DbContext
     {
         public DbSet<User> Users { get; set; } = null!;
+        public DbSet<Visit> Visits { get; set; } = null!;
+        public DbSet<Permission> Permissions { get; set; } = null!;
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             var configuration = new ConfigurationBuilder()
@@ -25,7 +27,8 @@ namespace CDE_Exellence.Data
                 Id = 1,
                 Email = "admin@example.com",
                 PasswordHash = BCrypt.Net.BCrypt.HashPassword("123"), // Mã hóa mật khẩu
-                Role = "Admin"
+                Role = "Admin",
+                Region = "Global"
             };
 
             modelBuilder.Entity<User>().HasData(defaultUser);

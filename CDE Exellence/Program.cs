@@ -1,6 +1,8 @@
 using CDE_Exellence.Data;
 using CDE_Exellence.Repository;
+using CDE_Exellence.Repository.VisitFolder;
 using CDE_Exellence.Service;
+using CDE_Exellence.Service.VisitFolder;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
@@ -19,6 +21,11 @@ builder.Services.AddDbContext<AppDbContext>();
 
 builder.Services.AddScoped<IUserRepository, UserRepository>();
 builder.Services.AddScoped<IAuthService, AuthService>();
+
+//visit
+
+builder.Services.AddScoped<IVisitRepository, VisitRepository>();
+builder.Services.AddScoped<IVisitService, VisitService>();
 
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     .AddJwtBearer(options =>

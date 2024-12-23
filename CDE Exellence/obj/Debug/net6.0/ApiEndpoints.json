@@ -21,6 +21,22 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "CDE_Exellence.Controllers.VisitController",
+    "Method": "GetVisits",
+    "RelativePath": "api/Visit",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "CDE_Exellence.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",
