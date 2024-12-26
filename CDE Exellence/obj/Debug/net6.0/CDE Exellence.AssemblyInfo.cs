@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CDE Exellence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cfe6f69402d7a7f15c5643893938d315b6831655")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf4f0c2fd4cecdf7fbb7a1d2ad3a4ba55b14ea94")]
 [assembly: System.Reflection.AssemblyProductAttribute("CDE Exellence")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CDE Exellence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

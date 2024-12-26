@@ -7,6 +7,26 @@
       "RelativeMoniker": "D:0:0:{849CB115-1061-463E-940A-7AEDAB259655}|CDE Exellence\\CDE Exellence.csproj|solutionrelative:cde exellence\\controllers\\visitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{849CB115-1061-463E-940A-7AEDAB259655}|CDE Exellence\\CDE Exellence.csproj|c:\\users\\hoang thong\\desktop\\thuctap\\cde exellence\\cde exellence\\service\\visitfolder\\ivisitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{849CB115-1061-463E-940A-7AEDAB259655}|CDE Exellence\\CDE Exellence.csproj|solutionrelative:cde exellence\\service\\visitfolder\\ivisitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{849CB115-1061-463E-940A-7AEDAB259655}|CDE Exellence\\CDE Exellence.csproj|c:\\users\\hoang thong\\desktop\\thuctap\\cde exellence\\cde exellence\\service\\visitfolder\\visitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{849CB115-1061-463E-940A-7AEDAB259655}|CDE Exellence\\CDE Exellence.csproj|solutionrelative:cde exellence\\service\\visitfolder\\visitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{849CB115-1061-463E-940A-7AEDAB259655}|CDE Exellence\\CDE Exellence.csproj|c:\\users\\hoang thong\\desktop\\thuctap\\cde exellence\\cde exellence\\repository\\visitfolder\\ivisitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{849CB115-1061-463E-940A-7AEDAB259655}|CDE Exellence\\CDE Exellence.csproj|solutionrelative:cde exellence\\repository\\visitfolder\\ivisitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{849CB115-1061-463E-940A-7AEDAB259655}|CDE Exellence\\CDE Exellence.csproj|c:\\users\\hoang thong\\desktop\\thuctap\\cde exellence\\cde exellence\\repository\\visitfolder\\visitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{849CB115-1061-463E-940A-7AEDAB259655}|CDE Exellence\\CDE Exellence.csproj|solutionrelative:cde exellence\\repository\\visitfolder\\visitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{849CB115-1061-463E-940A-7AEDAB259655}|CDE Exellence\\CDE Exellence.csproj|c:\\users\\hoang thong\\desktop\\thuctap\\cde exellence\\cde exellence\\model\\visit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{849CB115-1061-463E-940A-7AEDAB259655}|CDE Exellence\\CDE Exellence.csproj|solutionrelative:cde exellence\\model\\visit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{849CB115-1061-463E-940A-7AEDAB259655}|CDE Exellence\\CDE Exellence.csproj|c:\\users\\hoang thong\\desktop\\thuctap\\cde exellence\\cde exellence\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{849CB115-1061-463E-940A-7AEDAB259655}|CDE Exellence\\CDE Exellence.csproj|solutionrelative:cde exellence\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,26 +39,6 @@
       "RelativeMoniker": "D:0:0:{849CB115-1061-463E-940A-7AEDAB259655}|CDE Exellence\\CDE Exellence.csproj|solutionrelative:cde exellence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{849CB115-1061-463E-940A-7AEDAB259655}|CDE Exellence\\CDE Exellence.csproj|c:\\users\\hoang thong\\desktop\\thuctap\\cde exellence\\cde exellence\\service\\visitfolder\\visitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{849CB115-1061-463E-940A-7AEDAB259655}|CDE Exellence\\CDE Exellence.csproj|solutionrelative:cde exellence\\service\\visitfolder\\visitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{849CB115-1061-463E-940A-7AEDAB259655}|CDE Exellence\\CDE Exellence.csproj|c:\\users\\hoang thong\\desktop\\thuctap\\cde exellence\\cde exellence\\service\\visitfolder\\ivisitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{849CB115-1061-463E-940A-7AEDAB259655}|CDE Exellence\\CDE Exellence.csproj|solutionrelative:cde exellence\\service\\visitfolder\\ivisitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{849CB115-1061-463E-940A-7AEDAB259655}|CDE Exellence\\CDE Exellence.csproj|c:\\users\\hoang thong\\desktop\\thuctap\\cde exellence\\cde exellence\\repository\\visitfolder\\visitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{849CB115-1061-463E-940A-7AEDAB259655}|CDE Exellence\\CDE Exellence.csproj|solutionrelative:cde exellence\\repository\\visitfolder\\visitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{849CB115-1061-463E-940A-7AEDAB259655}|CDE Exellence\\CDE Exellence.csproj|c:\\users\\hoang thong\\desktop\\thuctap\\cde exellence\\cde exellence\\repository\\visitfolder\\ivisitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{849CB115-1061-463E-940A-7AEDAB259655}|CDE Exellence\\CDE Exellence.csproj|solutionrelative:cde exellence\\repository\\visitfolder\\ivisitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\Migrations\\20241223035816_updateDatabase23_12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CDE Exellence\\Migrations\\20241223035816_updateDatabase23_12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{849CB115-1061-463E-940A-7AEDAB259655}|CDE Exellence\\CDE Exellence.csproj|c:\\users\\hoang thong\\desktop\\thuctap\\cde exellence\\cde exellence\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{849CB115-1061-463E-940A-7AEDAB259655}|CDE Exellence\\CDE Exellence.csproj|solutionrelative:cde exellence\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -49,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{849CB115-1061-463E-940A-7AEDAB259655}|CDE Exellence\\CDE Exellence.csproj|c:\\users\\hoang thong\\desktop\\thuctap\\cde exellence\\cde exellence\\model\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{849CB115-1061-463E-940A-7AEDAB259655}|CDE Exellence\\CDE Exellence.csproj|solutionrelative:cde exellence\\model\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{849CB115-1061-463E-940A-7AEDAB259655}|CDE Exellence\\CDE Exellence.csproj|c:\\users\\hoang thong\\desktop\\thuctap\\cde exellence\\cde exellence\\model\\visit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{849CB115-1061-463E-940A-7AEDAB259655}|CDE Exellence\\CDE Exellence.csproj|solutionrelative:cde exellence\\model\\visit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{849CB115-1061-463E-940A-7AEDAB259655}|CDE Exellence\\CDE Exellence.csproj|c:\\users\\hoang thong\\desktop\\thuctap\\cde exellence\\cde exellence\\service\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -81,6 +77,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{849CB115-1061-463E-940A-7AEDAB259655}|CDE Exellence\\CDE Exellence.csproj|c:\\users\\hoang thong\\desktop\\thuctap\\cde exellence\\cde exellence\\cde exellence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{849CB115-1061-463E-940A-7AEDAB259655}|CDE Exellence\\CDE Exellence.csproj|solutionrelative:cde exellence\\cde exellence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{849CB115-1061-463E-940A-7AEDAB259655}|CDE Exellence\\CDE Exellence.csproj|c:\\users\\hoang thong\\desktop\\thuctap\\cde exellence\\cde exellence\\migrations\\20241223035816_updatedatabase23_12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{849CB115-1061-463E-940A-7AEDAB259655}|CDE Exellence\\CDE Exellence.csproj|solutionrelative:cde exellence\\migrations\\20241223035816_updatedatabase23_12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,19 +90,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "CDE Exellence\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "CDE Exellence\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "VisitService.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\Service\\VisitFolder\\VisitService.cs",
+              "RelativeDocumentMoniker": "CDE Exellence\\Service\\VisitFolder\\VisitService.cs",
+              "ToolTip": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\Service\\VisitFolder\\VisitService.cs",
+              "RelativeToolTip": "CDE Exellence\\Service\\VisitFolder\\VisitService.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAiwFQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T04:00:26.255Z",
+              "WhenOpened": "2024-12-23T04:03:03.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IVisitService.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\Service\\VisitFolder\\IVisitService.cs",
+              "RelativeDocumentMoniker": "CDE Exellence\\Service\\VisitFolder\\IVisitService.cs",
+              "ToolTip": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\Service\\VisitFolder\\IVisitService.cs",
+              "RelativeToolTip": "CDE Exellence\\Service\\VisitFolder\\IVisitService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T04:02:52.978Z",
               "EditorCaption": ""
             },
             {
@@ -113,27 +126,40 @@
               "RelativeDocumentMoniker": "CDE Exellence\\Controllers\\VisitController.cs",
               "ToolTip": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\Controllers\\VisitController.cs",
               "RelativeToolTip": "CDE Exellence\\Controllers\\VisitController.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAwCAAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAiwFwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-23T04:03:54.613Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "CDE Exellence\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "CDE Exellence\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "IVisitRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\Repository\\VisitFolder\\IVisitRepository.cs",
+              "RelativeDocumentMoniker": "CDE Exellence\\Repository\\VisitFolder\\IVisitRepository.cs",
+              "ToolTip": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\Repository\\VisitFolder\\IVisitRepository.cs",
+              "RelativeToolTip": "CDE Exellence\\Repository\\VisitFolder\\IVisitRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T04:05:33.262Z",
+              "WhenOpened": "2024-12-23T04:01:45.075Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
+              "Title": "VisitRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\Repository\\VisitFolder\\VisitRepository.cs",
+              "RelativeDocumentMoniker": "CDE Exellence\\Repository\\VisitFolder\\VisitRepository.cs",
+              "ToolTip": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\Repository\\VisitFolder\\VisitRepository.cs*",
+              "RelativeToolTip": "CDE Exellence\\Repository\\VisitFolder\\VisitRepository.cs*",
+              "ViewState": "AgIAADwAAAAAAAAAAAAUwFAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T04:02:00.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\Program.cs",
               "RelativeDocumentMoniker": "CDE Exellence\\Program.cs",
@@ -141,64 +167,52 @@
               "RelativeToolTip": "CDE Exellence\\Program.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAABsAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T15:11:18.226Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "VisitService.cs",
-              "DocumentMoniker": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\Service\\VisitFolder\\VisitService.cs",
-              "RelativeDocumentMoniker": "CDE Exellence\\Service\\VisitFolder\\VisitService.cs",
-              "ToolTip": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\Service\\VisitFolder\\VisitService.cs",
-              "RelativeToolTip": "CDE Exellence\\Service\\VisitFolder\\VisitService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T04:03:03.555Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T15:11:18.226Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "IVisitService.cs",
-              "DocumentMoniker": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\Service\\VisitFolder\\IVisitService.cs",
-              "RelativeDocumentMoniker": "CDE Exellence\\Service\\VisitFolder\\IVisitService.cs",
-              "ToolTip": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\Service\\VisitFolder\\IVisitService.cs",
-              "RelativeToolTip": "CDE Exellence\\Service\\VisitFolder\\IVisitService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
+              "Title": "Visit.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\Model\\Visit.cs",
+              "RelativeDocumentMoniker": "CDE Exellence\\Model\\Visit.cs",
+              "ToolTip": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\Model\\Visit.cs",
+              "RelativeToolTip": "CDE Exellence\\Model\\Visit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T04:02:52.978Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "VisitRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\Repository\\VisitFolder\\VisitRepository.cs",
-              "RelativeDocumentMoniker": "CDE Exellence\\Repository\\VisitFolder\\VisitRepository.cs",
-              "ToolTip": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\Repository\\VisitFolder\\VisitRepository.cs",
-              "RelativeToolTip": "CDE Exellence\\Repository\\VisitFolder\\VisitRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T04:02:00.338Z",
+              "WhenOpened": "2024-12-23T03:54:26.411Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "IVisitRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\Repository\\VisitFolder\\IVisitRepository.cs",
-              "RelativeDocumentMoniker": "CDE Exellence\\Repository\\VisitFolder\\IVisitRepository.cs",
-              "ToolTip": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\Repository\\VisitFolder\\IVisitRepository.cs*",
-              "RelativeToolTip": "CDE Exellence\\Repository\\VisitFolder\\IVisitRepository.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABUAAAAAAAAAA==",
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "CDE Exellence\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "CDE Exellence\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T04:01:45.075Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-23T04:05:33.262Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CDE Exellence\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CDE Exellence\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T04:00:26.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "20241223035816_updateDatabase23_12.cs",
               "DocumentMoniker": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\Migrations\\20241223035816_updateDatabase23_12.cs",
               "RelativeDocumentMoniker": "CDE Exellence\\Migrations\\20241223035816_updateDatabase23_12.cs",
@@ -206,8 +220,7 @@
               "RelativeToolTip": "CDE Exellence\\Migrations\\20241223035816_updateDatabase23_12.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T03:58:16.549Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-23T03:58:16.549Z"
             },
             {
               "$type": "Document",
@@ -219,8 +232,7 @@
               "RelativeToolTip": "CDE Exellence\\Model\\Permission.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T03:54:45.72Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-23T03:54:45.72Z"
             },
             {
               "$type": "Document",
@@ -232,8 +244,7 @@
               "RelativeToolTip": "CDE Exellence\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAA3wB4AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T09:44:05.091Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T09:44:05.091Z"
             },
             {
               "$type": "Document",
@@ -245,29 +256,11 @@
               "RelativeToolTip": "CDE Exellence\\Model\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T09:41:23.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T09:41:23.038Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Visit.cs",
-              "DocumentMoniker": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\Model\\Visit.cs",
-              "RelativeDocumentMoniker": "CDE Exellence\\Model\\Visit.cs",
-              "ToolTip": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\Model\\Visit.cs",
-              "RelativeToolTip": "CDE Exellence\\Model\\Visit.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAsAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T03:54:26.411Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\Service\\AuthService.cs",
               "RelativeDocumentMoniker": "CDE Exellence\\Service\\AuthService.cs",
@@ -279,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\Repository\\UserRepository.cs",
               "RelativeDocumentMoniker": "CDE Exellence\\Repository\\UserRepository.cs",
@@ -291,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\Repository\\IUserRepository.cs",
               "RelativeDocumentMoniker": "CDE Exellence\\Repository\\IUserRepository.cs",
@@ -303,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "IAuthService.cs",
               "DocumentMoniker": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\Service\\IAuthService.cs",
               "RelativeDocumentMoniker": "CDE Exellence\\Service\\IAuthService.cs",
@@ -315,7 +308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "20241216041549_SeedDefaultUser.cs",
               "DocumentMoniker": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\Migrations\\20241216041549_SeedDefaultUser.cs",
               "RelativeDocumentMoniker": "CDE Exellence\\Migrations\\20241216041549_SeedDefaultUser.cs",
@@ -327,7 +320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\appsettings.json",
               "RelativeDocumentMoniker": "CDE Exellence\\appsettings.json",
@@ -339,7 +332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "CDE Exellence.csproj",
               "DocumentMoniker": "C:\\Users\\Hoang Thong\\Desktop\\ThucTap\\CDE Exellence\\CDE Exellence\\CDE Exellence.csproj",
               "RelativeDocumentMoniker": "CDE Exellence\\CDE Exellence.csproj",

@@ -37,6 +37,99 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "CDE_Exellence.Controllers.VisitController",
+    "Method": "GetVisitDetails",
+    "RelativePath": "api/Visit/{visitId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "visitId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CDE_Exellence.Controllers.VisitController",
+    "Method": "UpdateVisit",
+    "RelativePath": "api/Visit/{visitId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "visitId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "visit",
+        "Type": "CDE_Exellence.Model.Visit",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CDE_Exellence.Controllers.VisitController",
+    "Method": "GetHistoryVisits",
+    "RelativePath": "api/Visit/history",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CDE_Exellence.Controllers.VisitController",
+    "Method": "SearchVisits",
+    "RelativePath": "api/Visit/search",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "keyword",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "startDate",
+        "Type": "System.Nullable\u00601[[System.DateTime, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "endDate",
+        "Type": "System.Nullable\u00601[[System.DateTime, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "status",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "distributor",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CDE_Exellence.Controllers.VisitController",
+    "Method": "GetUpcomingVisits",
+    "RelativePath": "api/Visit/upcoming",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "CDE_Exellence.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",
